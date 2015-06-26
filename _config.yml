@@ -1,6 +1,7 @@
 # Site settings
 title: Learning Lens 2015
 email: laramystara@gmail.com
+author: Lara Martinsen-Burrell
 description: > # this means to ignore newlines until "baseurl:"
   Learning Lens 2015 is a conference for homeschool parents in Decorah, Iowa
 baseurl: "" # the subpath of your site, e.g. /blog/
