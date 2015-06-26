@@ -72,13 +72,13 @@ body {
     width: 95%; } }
 body > header {
   padding-top: 1rem;
-  border-bottom: 1px #aaaaaa solid;
+  border-bottom: 1px #5e5e5e solid;
   max-width: 90%;
   padding-bottom: 0.5rem; }
   body > header h1 {
     text-align: center;
     font-size: 4.5rem;
-    font-weight: 600; }
+    font-weight: 500; }
   body > header h2 {
     text-align: center;
     font-size: 1.8rem;
@@ -207,6 +207,7 @@ h3 {
   font-size: 1.8rem;
   margin-top: 1.2rem;
   margin-bottom: 0;
+  margin-left: 21%;
   line-height: 1.088888888889; }
 
 h4 {
@@ -215,6 +216,7 @@ h4 {
   font-size: 1.6rem;
   margin-top: 0.8rem;
   margin-bottom: 0;
+  margin-left: 21%;
   line-height: 1.225; }
 
 h5 {

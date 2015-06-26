@@ -96,13 +96,13 @@ body {
 }
 body > header{
   padding-top: 1rem;
-  border-bottom: 1px lighten($text-color,60%) solid;
+  border-bottom: 1px lighten($text-color,30%) solid;
   max-width: 90%;
   padding-bottom: 0.5rem;
   h1 { 
     text-align: center;
     font-size: 4.5rem;
-    font-weight: 600;
+    font-weight: 500;
   }
   h2 {
     text-align: center;
@@ -251,6 +251,7 @@ h3 {  font-style: italic;
       font-size: 1.8rem;
       margin-top: 1.2rem;
       margin-bottom: 0;
+      margin-left: 21%;
       line-height: 1.088888888889; }
 
 h4 {  font-style: italic;
@@ -258,6 +259,7 @@ h4 {  font-style: italic;
       font-size: 1.6rem;
       margin-top: 0.8rem;
       margin-bottom: 0;
+      margin-left: 21%;
       line-height: 1.225; }
 
 h5 {  font-style: italic;
