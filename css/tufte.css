@@ -62,7 +62,10 @@ body {
   padding-bottom: 400px;
   background-color: #fffff8;
   color: #111;
-  max-width: 1400px; }
+  max-width: 1400px;
+  background-image: url("/sylly.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%; }
 
 @media screen and (min-width: 800px) {
   body {
@@ -74,10 +77,12 @@ body > header {
   padding-bottom: 0.5rem; }
   body > header h1 {
     text-align: center;
-    font-size: 4.5rem; }
+    font-size: 4.5rem;
+    font-weight: 600; }
   body > header h2 {
     text-align: center;
-    font-size: 1.8rem; }
+    font-size: 1.8rem;
+    font-weight: 400; }
 
 body > footer {
   padding-bottom: 2rem;

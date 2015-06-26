@@ -84,6 +84,9 @@ body {
   background-color: $bg-color;
   color: $text-color;
   max-width: 1400px;
+  background-image: url("/sylly.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
 
 }
 @media screen and (min-width: 800px){
@@ -99,10 +102,12 @@ body > header{
   h1 { 
     text-align: center;
     font-size: 4.5rem;
+    font-weight: 600;
   }
   h2 {
     text-align: center;
     font-size: 1.8rem;
+    font-weight: 400;
   }
 }
 body > footer{
