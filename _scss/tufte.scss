@@ -116,7 +116,6 @@ body > footer{
   max-width: 90%;
   text-align: center;
 }
-
 body > footer  ul  li{
   list-style: none;
   display: inline-block;
@@ -125,6 +124,14 @@ body > footer  ul  li{
 body > footer ul li a{
   font-size: 1.8rem;
 }
+
+body > hr {
+  border: 0;
+  height: 1px;
+  background: #333;
+  width: 90%;
+}
+
 //change font color for credit links in footer
 .credits{
   font-family: $sans-font;
@@ -296,6 +303,7 @@ h5 {  font-style: italic;
       font-size: 1.4rem;
       margin-top: 2.8rem;
       margin-bottom: 0rem;
+      margin-left: 21%;
       line-height: 1.4;
       }
 
@@ -366,6 +374,9 @@ span.newthought {
   font-variant: small-caps;
 }
 
+dl {
+  width: 80%
+}
 dt {
   float: left;
   clear: left;
